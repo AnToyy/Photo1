@@ -1,0 +1,7 @@
+#Thu Aug 04 14:58:19 CST 2016
+base.0=E\:\\Ade-project\\Photo1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c007e7e9b13b2d6dbc98bcb11b989dedf24260d7
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\Ade-project\\Photo1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_1d48e6e20db401dc6a08880270010fc03042b3a7\\classes.dex
+base.1=E\:\\Ade-project\\Photo1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_1d48e6e20db401dc6a08880270010fc03042b3a7
+file.0=E\:\\Ade-project\\Photo1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c007e7e9b13b2d6dbc98bcb11b989dedf24260d7\\classes.dex

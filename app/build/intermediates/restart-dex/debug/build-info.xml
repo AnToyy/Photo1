@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="22"
+    density="mdpi"
+    format="8"
+    timestamp="262587924579174"
+    token="706164430848641555"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="288" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="152" />
+    <task
+        name="verifier"
+        duration="59" />
+
+    <artifact
+        location="E:\Ade-project\Photo1\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="262587924579174"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="E:\Ade-project\Photo1\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

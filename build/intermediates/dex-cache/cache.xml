@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\Ade-project\Photo1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="9911edd70a1ac075da50b41590b9176d75f6c3c8">
+        <dex dex="E:\Ade-project\Photo1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_1d48e6e20db401dc6a08880270010fc03042b3a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android\AppData\Local\android\SDK\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="E:\Ade-project\Photo1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_8da836f6dcc6013e801acb321599366110a5f125\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Ade-project\Photo1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="be5de6fbbdf8a1c03a73276979e86e5340a86a35">
+        <dex dex="E:\Ade-project\Photo1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c007e7e9b13b2d6dbc98bcb11b989dedf24260d7\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\Ade-project\\Photo1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_translate_in.xml",
+        "source": "E:\\Ade-project\\Photo1\\app\\src\\main\\res\\anim\\activity_translate_in.xml"
+    },
+    {
+        "merged": "E:\\Ade-project\\Photo1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\popup_exit.xml",
+        "source": "E:\\Ade-project\\Photo1\\app\\src\\main\\res\\anim\\popup_exit.xml"
+    },
+    {
+        "merged": "E:\\Ade-project\\Photo1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\popup_enter.xml",
+        "source": "E:\\Ade-project\\Photo1\\app\\src\\main\\res\\anim\\popup_enter.xml"
+    },
+    {
+        "merged": "E:\\Ade-project\\Photo1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_translate_out.xml",
+        "source": "E:\\Ade-project\\Photo1\\app\\src\\main\\res\\anim\\activity_translate_out.xml"
+    }
+]
